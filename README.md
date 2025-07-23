@@ -20,6 +20,7 @@ Radix UI
 
 Netlify (for deployment)
 
+
 🧪 What I Did
 Translated user research into 3 app ideas
 
@@ -31,6 +32,7 @@ Tested it with real users
 
 Iterated on feedback to improve the design
 
+
 ✍️ How to Run Locally
 bash
 Copy
@@ -39,6 +41,7 @@ git clone https://github.com/sqlqm/skincare-appv2.git
 cd skincare-appv2
 npm install
 npm run dev
+
 
 📚 What I Learned
 How to apply design thinking to real-world UX challenges
@@ -49,11 +52,13 @@ How to gather feedback and turn it into actionable design updates
 
 How to deploy a React app with Vite and Netlify
 
+
 💡 Future Ideas
 Add a login/profile system for saved routines
 
 Include product matching based on skin type
 
 Add educational tips and videos directly in-app
+
 
 Feel free to fork this or try it out. It was a fun and rewarding project and gave me a better appreciation for what it takes to design digital products that feel human and supportive.
