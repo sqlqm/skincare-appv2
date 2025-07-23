@@ -1,33 +1,59 @@
-# 🧴 Skincare App
+Skincare App – CeraVe UX Design Project
+The goal was to prototype and test a skincare app for L'Oréal’s CeraVe line to help first time users build a skincare routine with clarity and confidence.
 
-A skincare routine helper app built with React and Vite, designed to help users explore and manage personalized routines, quiz results, and product suggestions.
+🚀 Live Demo
+https://skincare-appv2.netlify.app
 
-## 🚀 Live Site
-👉 (https://skincare-appv2.netlify.app)
+🧠 Project Objective
+My job was to take real user insights and turn them into a human centered, easy to use app that gives users confidence when starting a skincare routine. This meant designing with clarity, accessibility, and usefulness in mind.
 
-## 💡 Features
-- Clean and modern UI
-- Skincare quiz to help identify your skin type
-- Routine builder
-- Educational tips and placeholder product suggestions
-- Built using React, React Router, Tailwind CSS, and TanStack Query
+🔨 Built With
+React
 
-## 🧠 Purpose
-This project was made as part of a class project to learn more about building user focused apps. The goal was to make a minimal skincare app that feels intuitive without needing instructions.
+Vite
 
-## 👨‍🔬 Testing
-I tested the app with a few classmates and friends. Most users understood the flow without explanation. A couple users didn’t notice the quiz button right away, so I may adjust the layout to make it clearer.
+React Router
 
-## ⚙️ Tech Stack
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [React Router](https://reactrouter.com/)
-- [TanStack Query](https://tanstack.com/query/latest)
+Tailwind CSS
 
-## 📦 Installation (for local dev)
-```bash
+Radix UI
+
+Netlify (for deployment)
+
+🧪 What I Did
+Translated user research into 3 app ideas
+
+Sketched and wireframed different versions
+
+Built a working prototype
+
+Tested it with real users
+
+Iterated on feedback to improve the design
+
+✍️ How to Run Locally
+bash
+Copy
+Edit
 git clone https://github.com/sqlqm/skincare-appv2.git
 cd skincare-appv2
 npm install
 npm run dev
+
+📚 What I Learned
+How to apply design thinking to real-world UX challenges
+
+The importance of simplifying onboarding for new users
+
+How to gather feedback and turn it into actionable design updates
+
+How to deploy a React app with Vite and Netlify
+
+💡 Future Ideas
+Add a login/profile system for saved routines
+
+Include product matching based on skin type
+
+Add educational tips and videos directly in-app
+
+Feel free to fork this or try it out. It was a fun and rewarding project and gave me a better appreciation for what it takes to design digital products that feel human and supportive.
